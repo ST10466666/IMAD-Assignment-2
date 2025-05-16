@@ -7,7 +7,7 @@ The app presents a series of True/False questions, tracks user scores, and provi
 
 -Usage
 
-- Installation
+-Installation
 
 -Technical Details
 
