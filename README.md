@@ -43,11 +43,9 @@ Final results are displayed with performance feedback.
 Play again from the score screen.
 
 # Installation
-Clone the repository
-bash
-git clone https://github.com/your-repo/history-quiz-app.git
-Open in Android Studio
-Build & Run on an emulator or physical device
+### Clone the repository
+### Open in Android Studio
+### Build & Run on an emulator or physical device
 
 ![image](https://github.com/user-attachments/assets/601f2c24-2c8e-4aee-af68-572129d22e32)
 
