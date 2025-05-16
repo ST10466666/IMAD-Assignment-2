@@ -59,6 +59,12 @@ Android Studio will automatically intall the dependencies listed in your build.g
 
 If you've added any new dependencies, make sure to sync Gradle again.
 
+### 3.Sync Gradle:
+If Android Studio prompts you to sync Gradle file, click "Sync Now".
+
+Alternatively, you can manually trigger a Gradle sync by going to "File">"Sync project with Gradle files".
+
+This step downlaod all the necessary libraries and dependencies defined in your build.gradle files.
 
 ### Build & Run on an emulator or physical device
 
@@ -88,6 +94,9 @@ Tracks correct answers and displays performance.
 Automatically detects when all questions are answered.
 
 ![image](https://github.com/user-attachments/assets/926661a0-0bd5-4e35-947e-131b8956fe58)
+
+# Liscence
+
 
 
 
