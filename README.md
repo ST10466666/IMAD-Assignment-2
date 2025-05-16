@@ -95,10 +95,70 @@ Automatically detects when all questions are answered.
 
 ![image](https://github.com/user-attachments/assets/926661a0-0bd5-4e35-947e-131b8956fe58)
 
-# Liscence
-Apache Software License, Version 2.0
+# Contributing
+Community and Collaboration:
+Foster a welcoming and inclusive environment for contributors.
 
-# Reference
+Respect diverse culinary tradidtions and dietary preferences.
+
+Enage in constructive discussions and code reviews.
+
+Innovations and Improvements
+Explore new technologies and approaches to meal planning.
+
+Continously seek ways to enhance the app's functionality.
+
+Clear and Concise Communication
+Write clear and well-documantation code.
+
+Provide detailed bug reports and feature requests.
+
+Communicate effectively with other contributors.
+
+Performance and Efficiency
+Optomize the app for speed and responsiveness.
+
+Ensure compatibility across different devices and platforms.
+
+Respectful of Copyright and Liecencing:
+Ensure all code and content is properly licensed.
+
+## How to submit Bug Reports, or pull requests:
+## 1.Bug Reports:
+Check existing issues: Before submitting a new bug report, search the issue tracker to see if the bug has already been reported.
+
+Provide Detailed Information:
+Title: Give a concise and descriptive title.
+
+Describe the bug clearly and accurately
+
+Explain the steps to reproduce the bug
+
+Include the expected behaviour and the actual behaviour.
+
+Specify the opertaing system, browser, ordevice used.
+
+Inculde and relevant screenshots or error messages
+
+Add appropriate lables.
+
+### pull requests
+address feedback: Respond to comments and make any necessary changes
+
+# Liscence
+Apache Software License, Version 
+
+# Reference 
+:Support emulation projects,2025. Support emulation projects. [online] Available at:https://emulation.gametechwiki.com/index.php/Support_emulation_projects . 
+[Accessed on 03 April 2025}
+
+# YouTube Link
+https://youtube.com/shorts/GR0AF7iSEGY?si=s15fOKyKcvWB1_a0 
+
+# GitHub Link
+
+
+
 
 
 
