@@ -43,8 +43,20 @@ Final results are displayed with performance feedback.
 Play again from the score screen.
 
 # Installation
-### Clone the repository
+Instructions on how to install and set up the App.
+
+### 1. Open the project in Android Studio:
+Launach Android Studio
+
+Click "Open" or "Open an existing Android Studio Project".
+
+Navigate to the project directory and select the build.gradle file.
+
+Android Studio will begin building the project and downloading dependencies.
+
+running
 ### Open in Android Studio
+
 ### Build & Run on an emulator or physical device
 
 ![image](https://github.com/user-attachments/assets/601f2c24-2c8e-4aee-af68-572129d22e32)
