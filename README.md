@@ -54,8 +54,11 @@ Navigate to the project directory and select the build.gradle file.
 
 Android Studio will begin building the project and downloading dependencies.
 
-running
-### Open in Android Studio
+### 2.Install Dependencies:
+Android Studio will automatically intall the dependencies listed in your build.gradle file.
+
+If you've added any new dependencies, make sure to sync Gradle again.
+
 
 ### Build & Run on an emulator or physical device
 
