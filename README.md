@@ -96,6 +96,11 @@ Automatically detects when all questions are answered.
 ![image](https://github.com/user-attachments/assets/926661a0-0bd5-4e35-947e-131b8956fe58)
 
 # Liscence
+Apache Software License, Version 2.0
+
+# Reference
+
+
 
 
 
