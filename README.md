@@ -66,7 +66,7 @@ Alternatively, you can manually trigger a Gradle sync by going to "File">"Sync p
 
 This step downlaod all the necessary libraries and dependencies defined in your build.gradle files.
 
-### Build & Run on an emulator or physical device
+### Build & Run on an emulator
 
 ![image](https://github.com/user-attachments/assets/601f2c24-2c8e-4aee-af68-572129d22e32)
 
