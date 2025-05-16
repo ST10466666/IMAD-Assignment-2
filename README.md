@@ -31,6 +31,26 @@ Smooth Navigation – Moves from Questions Screen → Score Screen with an optio
  ![image](https://github.com/user-attachments/assets/19676885-30e1-4efd-983c-32e0f10e1a77)
 
  # Usage
+### Launch the app – 
+Starts on the quiz screen.
+### Answer questions – 
+Tap True or False for each historical fact.
+### Complete the quiz – 
+After the last question, the Next button activates.
+### View your score – 
+Final results are displayed with performance feedback.
+### Restart option –
+Play again from the score screen.
+
+# Installation
+Clone the repository
+bash
+git clone https://github.com/your-repo/history-quiz-app.git
+Open in Android Studio
+Build & Run on an emulator or physical device
+![image](https://github.com/user-attachments/assets/601f2c24-2c8e-4aee-af68-572129d22e32)
+
+
 
 
 
