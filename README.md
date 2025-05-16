@@ -49,6 +49,33 @@ Play again from the score screen.
 
 ![image](https://github.com/user-attachments/assets/601f2c24-2c8e-4aee-af68-572129d22e32)
 
+# Technical Deatils
+### Built With
+Kotlin (Primary language)
+
+Android Studio (Development environment)
+
+Android Jetpack Components (For modern Android development)
+
+App Architecture
+Single-Activity for Quiz (Questtions.kt)
+
+Score Display Activity (Score.kt)
+
+Intent-Based Navigation (Passing scores between screens)
+
+## Key Components
+### Button State Management – 
+Next button enables only after quiz completion.
+### Score Calculation –
+Tracks correct answers and displays performance.
+### Quiz Completion Detection – 
+Automatically detects when all questions are answered.
+
+![image](https://github.com/user-attachments/assets/926661a0-0bd5-4e35-947e-131b8956fe58)
+
+
+
 
 
 
